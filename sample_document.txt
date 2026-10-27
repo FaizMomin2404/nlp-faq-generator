@@ -1,0 +1,26 @@
+The college is located in Ashta, Maharashtra.
+The institution offers undergraduate engineering programs.
+The university was established in 1983.
+Dr. APJ Abdul Kalam was an Indian aerospace scientist who inspired millions of students.
+The engineering library contains over 50,000 books and reference journals.
+
+Natural Language Processing (NLP) is a branch of artificial intelligence that helps computers understand, interpret, and manipulate human language.
+The primary objective of Natural Language Processing is to enable machines to read text, hear speech, and extract valuable meaning from unstructured data.
+Many modern technologies depend on NLP techniques to provide intelligent user experiences.
+
+Tokenization is the foundational process of breaking text into smaller units called tokens, such as words or sentences.
+Without tokenization, machines cannot easily analyze linguistic structures.
+
+Stop-word removal is a text cleaning technique where common words such as 'is', 'the', and 'at' are filtered out because they carry little contextual significance.
+Removing stop words helps focus computational attention on informative keywords.
+
+Part-of-Speech tagging is an NLP method that labels each word in a sentence with its corresponding grammatical category, such as nouns, verbs, or adjectives.
+POS tagging enables syntactic analysis and rule-based information extraction.
+
+Term Frequency-Inverse Document Frequency (TF-IDF) is a statistical measure used to evaluate the importance of a word in a document collection.
+TF-IDF gives higher weight to terms that appear frequently in a specific sentence but infrequently across the entire corpus.
+TF-IDF enables computers to identify dominant domain concepts automatically.
+
+Question generation refers to the automated task of creating relevant questions from informative source text.
+Rule-based question generation utilizes grammatical rules and syntactic patterns to transform declarative statements into interrogative questions.
+FAQ generation systems save significant time by automatically summarizing documents and providing direct answers for users.
